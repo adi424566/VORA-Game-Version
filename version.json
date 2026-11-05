@@ -1,19 +1,14 @@
-
 {
   "gameName": "VORA",
   "gameEnabled": true,
   "maintenanceMode": false,
-  "maintenanceMessage": "VORA servers are under maintenance.",
+  "maintenanceMessage": "VORA servers are under maintenance. Please try again later.",
   "gameVersion": "1.0.1",
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
-  "configVersion": "2",
+  "configVersion": "1",
   "requireReleaseBuild": false,
   "allowAndroid": true,
   "allowWindows": true,
-  "allowEditor": true,
-  "minimumAndroidRamMB": 2048,
-  "minimumWindowsRamMB": 4096,
-  "minimumFreeStorageMB": 1024,
-  "maximumConfigResponseTimeMs": 5000
+  "allowEditor": true
 }
