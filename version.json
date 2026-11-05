@@ -7,7 +7,7 @@
   "minimumVersion": "1.0.0",
   "forceUpdate": false,
   "configVersion": "1",
-  "requireReleaseBuild": true,
+  "requireReleaseBuild": false,
   "allowAndroid": true,
   "allowWindows": true,
   "allowEditor": true
