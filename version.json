@@ -1,5 +1,5 @@
 {
   "gameVersion": "1.0.0",
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "maintenanceMessage": "VORA servers are currently under maintenance. Please try again later."
 }
