@@ -1,5 +1,14 @@
 {
-  "gameVersion": "1.0.0",
+  "gameName": "VORA",
+  "gameEnabled": true,
   "maintenanceMode": false,
-  "maintenanceMessage": "VORA servers are currently under maintenance. Please try again later."
+  "maintenanceMessage": "VORA servers are under maintenance. Please try again later.",
+  "gameVersion": "1.0.1",
+  "minimumVersion": "1.0.0",
+  "forceUpdate": false,
+  "configVersion": "1",
+  "requireReleaseBuild": true,
+  "allowAndroid": true,
+  "allowWindows": true,
+  "allowEditor": true
 }
